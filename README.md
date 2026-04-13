@@ -27,7 +27,7 @@
 
 <table>
 <tr>
-<td valign="top" width="60%">
+<td valign="top" width="600">
 
 ```java
 public class FelipeIttner {
