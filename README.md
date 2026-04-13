@@ -179,12 +179,6 @@ public class FelipeIttner {
 | [**🐾 unePets**](https://github.com/Felipe-tt/unePets) | Pet shop management system — full CRUD, business rules, relational DB | Java · SQL Server · HTML · CSS · JS |
 | [**🎬 Locadora Céu Azul**](https://github.com/Felipe-tt/Locadora-CeuAzul) | Movie rental system — inventory, rentals, returns & customers | Java · SQL Server · HTML · CSS · JS |
 
-<br/>
-
-[![unePets](https://img.shields.io/badge/🐾_unePets-View_on_GitHub-e94560?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Felipe-tt/unePets)
-&nbsp;
-[![Locadora](https://img.shields.io/badge/🎬_Locadora_Céu_Azul-View_on_GitHub-e94560?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Felipe-tt/Locadora-CeuAzul)
-
 </div>
 
 <br/>
