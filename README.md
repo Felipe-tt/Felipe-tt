@@ -57,7 +57,7 @@ public class FelipeIttner {
 </td>
 <td valign="middle" width="50%" align="center">
 
-<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="300" alt="coding gif"/>
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="300" alt="coding gif"/>
 
 </td>
 </tr>
