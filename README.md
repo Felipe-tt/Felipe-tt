@@ -27,7 +27,7 @@
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="60%">
 
 ```java
 public class FelipeIttner {
@@ -55,10 +55,10 @@ public class FelipeIttner {
 ```
 
 </td>
-<td valign="middle" width="50%" align="center">
-
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="300" alt="coding gif"/>
-
+<td width="40%">
+<div align="center">
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="280" alt="coding gif"/>
+</div>
 </td>
 </tr>
 </table>
