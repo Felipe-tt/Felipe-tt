@@ -1,16 +1,22 @@
-<!-- ============================================================
-     FELIPE ITTNER — GitHub Profile README
-     ============================================================ -->
+<!-- =====================================================================
+  ███████╗███████╗██╗     ██╗██████╗ ███████╗    ██╗████████╗████████╗███╗   ██╗███████╗██████╗
+  ██╔════╝██╔════╝██║     ██║██╔══██╗██╔════╝    ██║╚══██╔══╝╚══██╔══╝████╗  ██║██╔════╝██╔══██╗
+  █████╗  █████╗  ██║     ██║██████╔╝█████╗      ██║   ██║      ██║   ██╔██╗ ██║█████╗  ██████╔╝
+  ██╔══╝  ██╔══╝  ██║     ██║██╔═══╝ ██╔══╝      ██║   ██║      ██║   ██║╚██╗██║██╔══╝  ██╔══██╗
+  ██║     ███████╗███████╗██║██║     ███████╗    ██║   ██║      ██║   ██║ ╚████║███████╗██║  ██║
+  ╚═╝     ╚══════╝╚══════╝╚═╝╚═╝     ╚══════╝    ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝
+  FELIPE ITTNER — FULLSTACK DEVELOPER — BLUMENAU, SC — BRAZIL
+  ===================================================================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,30:1a0010,60:2d0020,100:e94560&height=320&section=header&text=Felipe%20Ittner&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=%E2%9A%A1%20FullStack%20Developer%20%7C%20Java%20%7C%20JavaScript%20%7C%20SQL%20Server&descAlignY=62&descSize=18&descColor=e94560&stroke=e94560&strokeWidth=3" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,20:0a0010,50:1a0020,80:2d0030,100:e94560&height=350&section=header&text=Felipe%20Ittner&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=%E2%9A%A1%20Junior%20FullStack%20Developer%20%7C%20Blumenau%2C%20SC%20%E2%80%94%20Brazil%20%F0%9F%87%A7%F0%9F%87%B7&descAlignY=60&descSize=20&descColor=e94560&stroke=e94560&strokeWidth=3" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=E94560&center=true&vCenter=true&multiline=false&width=700&lines=Hey+there%2C+I'm+Felipe+%F0%9F%91%8B;Junior+FullStack+Developer+%F0%9F%9A%80;Java+%7C+JavaScript+%7C+SQL+Server+%F0%9F%92%BB;From+support+to+dev+%E2%80%94+hands-on+since+day+one+%F0%9F%94%A5;Based+in+Blumenau%2C+SC+%E2%80%94+Brazil+%F0%9F%87%A7%F0%9F%87%B7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=2500&pause=700&color=E94560&center=true&vCenter=true&width=800&lines=%3E+Hello%2C+World!+%F0%9F%91%8B+I'm+Felipe+Ittner;%3E+Junior+FullStack+Developer+%F0%9F%9A%80;%3E+Java+%7C+SQL+Server+%7C+JavaScript+%F0%9F%92%BB;%3E+From+IT+Support+to+FullStack+Dev+%F0%9F%94%A5;%3E+Turning+user+pain+into+clean+code+%E2%9C%A8;%3E+Based+in+Blumenau%2C+SC+%E2%80%94+Brazil+%F0%9F%87%A7%F0%9F%87%B7;%3E+Always+learning%2C+always+shipping+%F0%9F%93%A6)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,68 +24,189 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-ittner-768717247)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-ittner-768717247)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe.ttnr@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Felipe-tt)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Felipe-tt)
 [![Profile Views](https://komarev.com/ghpvc/?username=Felipe-tt&color=e94560&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Felipe-tt)
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                  ║
+║    ██████╗ ███████╗██╗   ██╗    ██████╗ ██████╗  ██████╗ ███████╗██╗██╗         ║
+║    ██╔══██╗██╔════╝██║   ██║    ██╔══██╗██╔══██╗██╔═══██╗██╔════╝██║██║         ║
+║    ██║  ██║█████╗  ██║   ██║    ██████╔╝██████╔╝██║   ██║█████╗  ██║██║         ║
+║    ██║  ██║██╔══╝  ╚██╗ ██╔╝    ██╔═══╝ ██╔══██╗██║   ██║██╔══╝  ██║██║         ║
+║    ██████╔╝███████╗ ╚████╔╝     ██║     ██║  ██║╚██████╔╝██║     ██║███████╗    ║
+║    ╚═════╝ ╚══════╝  ╚═══╝      ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝    ║
+║                                                                                  ║
+║           [ Java · JavaScript · SQL Server · HTML · CSS · jQuery ]              ║
+║                                                                                  ║
+╚══════════════════════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧬 `whoami`
+
+```bash
+$ whoami
+felipe-ittner
+
+$ cat /etc/profile.d/developer.conf
+NAME="Felipe Ittner"
+ROLE="Junior FullStack Developer"
+COMPANY="Lince Tech"
+LOCATION="Blumenau, SC — Brazil 🇧🇷"
+DEGREE="B.Sc. Information Systems @ UNIASSELVI [2023–2027]"
+STATUS="Building, learning, shipping."
+
+$ echo $ORIGIN
+"Started in IT support in 2023 — closest seat to the user's frustration.
+ Migrated to development the hard way: by understanding what breaks and why.
+ Every system I build carries that perspective."
+
+$ cat skills.json
+```
+
+```json
+{
+  "backend":    ["Java", "SQL Server", "C#"],
+  "frontend":   ["JavaScript", "jQuery", "AJAX", "JSON", "HTML5", "CSS3"],
+  "tools":      ["Git", "Jira", "N8N", "Botpress", "BotConversa", "VS Code", "Postman"],
+  "learning":   ["Spring Boot", "React", "Docker"],
+  "soft":       ["Code Review", "Business Rules Analysis", "Query Optimization", "Process Automation"]
+}
+```
+
+```bash
+$ uptime
+ Junior Dev since 2023 | Still running | No crashes yet.
+
+$ last reboot
+Never. The grind doesn't stop. 🔥
+```
+
+---
+
+## 💻 `./about-me.java`
 
 ```java
-public class FelipeIttner extends Developer {
+/**
+ * @author  Felipe Ittner
+ * @version 2025.1
+ * @since   2023 — Lince Tech
+ */
+public class FelipeIttner extends FullStackDeveloper implements ProblemSolver {
 
-    private final String name        = "Felipe Ittner";
-    private final String role        = "Junior FullStack Developer";
-    private final String company     = "Lince Tech";
-    private final String location    = "Blumenau, SC — Brazil 🇧🇷";
-    private final String education   = "B.Sc. Information Systems @ UNIASSELVI (2023–2027)";
+    // ─── Identity ──────────────────────────────────────────────────────────
+    private static final String NAME      = "Felipe Ittner";
+    private static final String ROLE      = "Junior FullStack Developer";
+    private static final String COMPANY   = "Lince Tech";
+    private static final String LOCATION  = "Blumenau, SC — Brazil 🇧🇷";
 
-    private final String[] backend   = { "Java", "SQL Server", "C#" };
-    private final String[] frontend  = { "JavaScript", "jQuery", "AJAX", "HTML5", "CSS3" };
-    private final String[] tools     = { "Git", "Jira", "N8N", "Botpress", "BotConversa" };
+    // ─── Technical Stack ───────────────────────────────────────────────────
+    private final Stack<String> backend   = new Stack<>(List.of("Java", "SQL Server", "C#"));
+    private final Stack<String> frontend  = new Stack<>(List.of("JavaScript", "jQuery",
+                                                                 "AJAX", "HTML5", "CSS3"));
+    private final Stack<String> tools     = new Stack<>(List.of("Git", "Jira", "N8N",
+                                                                 "Botpress", "BotConversa"));
+    private final Stack<String> learning  = new Stack<>(List.of("Spring Boot", "React", "Docker"));
 
+    // ─── Origin Story ──────────────────────────────────────────────────────
     private final String origin = """
-        Started in technical support — learned how systems break
-        from the user's perspective. That foundation still shapes
-        every line of code I write today.
-    """;
+        Began at Lince Tech as a Technical Support analyst.
+        Sat beside the users. Watched the pain points.
+        Understood systems from the outside in — before ever writing a line.
+        Over time: support became development.
+        Now: I build the very systems I once helped users navigate.
+        """;
+
+    // ─── Methods ───────────────────────────────────────────────────────────
 
     @Override
-    public String getCurrentFocus() {
-        return "Growing as a FullStack Dev — back-end logic meets clean front-end.";
+    public String getCurrentMission() {
+        return "Delivering clean, maintainable Java + SQL Server web systems at Lince Tech.";
+    }
+
+    @Override
+    public String getDailyRoutine() {
+        return """
+            ☕ Coffee → 📋 Jira ticket → ⚙️  Java back-end logic
+            → 🗄️  SQL Server queries → 🎨 Front-end polish
+            → 🔍 Code review → 🚀 Deploy → repeat.
+            """;
     }
 
     @Override
     public String getFunFact() {
-        return "I debug in production and I'm not ashamed. 💀";
+        return "I debug in production and I'm not even sorry. 💀";
+    }
+
+    @Override
+    public boolean isAvailableToConnect() {
+        return true; // Always open for good conversations.
     }
 }
 ```
 
 ---
 
-## 🗺️ Journey
+## 🗺️ Career Timeline
 
 ```
-2020 ──────► Technical Degree in Computer Software @ Cedup Hermann Hering
-2021 ──────► C# Web Development @ Entra21 / ProWay
-2022 ──────► Technical Degree, Systems Analysis & Development @ SENAI/SC
-2023 ──────► Joined Lince Tech as Technical Support
-             Started B.Sc. Information Systems @ UNIASSELVI
-      │
-      ▼
-2024 ──────► Java Web Development @ Entra21 / SENAI
-             Transitioned into FullStack Development at Lince Tech
-      │
-      ▼
-NOW  ──────► Junior FullStack Developer @ Lince Tech 🚀
-             Java · SQL Server · JavaScript · jQuery · AJAX · HTML · CSS
-             Building & maintaining web systems, business rules, code reviews
-2027 ──────► B.Sc. Information Systems — Expected Graduation 🎓
+ 2020  ┌─────────────────────────────────────────────────────────────────────┐
+       │  🏫  Technical Degree in Computer Software                          │
+       │      Cedup Hermann Hering — first contact with systems & logic      │
+       └──────────────────────────────────┬──────────────────────────────────┘
+                                          │
+ 2021  ┌──────────────────────────────────▼──────────────────────────────────┐
+       │  📘  C# Web Development                                             │
+       │      Entra21 / ProWay — first deep dive into web back-end           │
+       └──────────────────────────────────┬──────────────────────────────────┘
+                                          │
+ 2022  ┌──────────────────────────────────▼──────────────────────────────────┐
+       │  🎓  Technical Degree — Systems Analysis & Development              │
+       │      SENAI/SC — methodologies, architecture, professional practice  │
+       └──────────────────────────────────┬──────────────────────────────────┘
+                                          │
+ 2023  ┌──────────────────────────────────▼──────────────────────────────────┐
+       │  🔧  Joined Lince Tech as Technical Support Analyst                 │
+       │      Understood users, systems, pain points — from the front line   │
+       │                                                                      │
+       │  📚  Started B.Sc. Information Systems @ UNIASSELVI                 │
+       │      Building the academic foundation in parallel                   │
+       └──────────────────────────────────┬──────────────────────────────────┘
+                                          │
+ 2024  ┌──────────────────────────────────▼──────────────────────────────────┐
+       │  ☕  Java Web Development — Entra21 / SENAI                         │
+       │      Deepened Java skills for enterprise-grade development          │
+       │                                                                      │
+       │  🚀  Transitioned to FullStack Developer @ Lince Tech               │
+       │      Java · SQL Server · JavaScript · jQuery · AJAX · HTML · CSS    │
+       │      Developing systems, handling business rules, code reviews       │
+       └──────────────────────────────────┬──────────────────────────────────┘
+                                          │
+ NOW   ┌──────────────────────────────────▼──────────────────────────────────┐
+       │  💼  Junior FullStack Developer @ Lince Tech  🔥                    │
+       │      Building & maintaining web systems in Java + SQL Server        │
+       │      Writing front-end with JS, jQuery, AJAX, HTML, CSS             │
+       │      Process automation with N8N · WhatsApp bots with Botpress      │
+       └──────────────────────────────────┬──────────────────────────────────┘
+                                          │
+ 2027  ┌──────────────────────────────────▼──────────────────────────────────┐
+       │  🎓  B.Sc. Information Systems — Expected Graduation                │
+       │      UNIASSELVI — the degree that closes the loop.                  │
+       └─────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -90,46 +217,70 @@ NOW  ──────► Junior FullStack Developer @ Lince Tech 🚀
 
 ### ⚙️ Back-end & Database
 
-[![My Skills](https://skillicons.dev/icons?i=java,cs,sqlserver&theme=dark&perline=6)](https://skillicons.dev)
+[![Java](https://skillicons.dev/icons?i=java&theme=dark)](https://skillicons.dev)
+[![C#](https://skillicons.dev/icons?i=cs&theme=dark)](https://skillicons.dev)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+
+```sql
+-- Daily life at Lince Tech
+SELECT TOP 10
+    feature,
+    business_rule,
+    performance_gain
+FROM daily_tasks
+WHERE developer = 'Felipe Ittner'
+  AND status IN ('in_progress', 'code_review', 'done')
+ORDER BY priority DESC;
+```
 
 ---
 
 ### 🎨 Front-end
 
-[![My Skills](https://skillicons.dev/icons?i=js,jquery,html,css&theme=dark&perline=6)](https://skillicons.dev)
+[![JS](https://skillicons.dev/icons?i=js&theme=dark)](https://skillicons.dev)
+[![jQuery](https://skillicons.dev/icons?i=jquery&theme=dark)](https://skillicons.dev)
+[![HTML](https://skillicons.dev/icons?i=html&theme=dark)](https://skillicons.dev)
+[![CSS](https://skillicons.dev/icons?i=css&theme=dark)](https://skillicons.dev)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![AJAX](https://img.shields.io/badge/AJAX-007ACC?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000?style=for-the-badge&logo=json&logoColor=white)
 
 ---
 
 ### 🔧 Tools, Workflow & Automation
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark&perline=6)](https://skillicons.dev)
+[![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://skillicons.dev)
+[![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://skillicons.dev)
+[![VSCode](https://skillicons.dev/icons?i=vscode&theme=dark)](https://skillicons.dev)
+[![Postman](https://skillicons.dev/icons?i=postman&theme=dark)](https://skillicons.dev)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![N8N](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Botpress](https://img.shields.io/badge/Botpress-1A1A1A?style=for-the-badge&logo=botpress&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Botpress](https://img.shields.io/badge/Botpress-1A1A1A?style=for-the-badge&logoColor=white)
+![BotConversa](https://img.shields.io/badge/BotConversa-6C63FF?style=for-the-badge&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-### 📚 Currently Learning
+### 🌱 Currently Learning
+
+[![Spring](https://skillicons.dev/icons?i=spring&theme=dark)](https://skillicons.dev)
+[![React](https://skillicons.dev/icons?i=react&theme=dark)](https://skillicons.dev)
+[![Docker](https://skillicons.dev/icons?i=docker&theme=dark)](https://skillicons.dev)
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -139,11 +290,11 @@ NOW  ──────► Junior FullStack Developer @ Lince Tech 🚀
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Felipe-tt&theme=dark&hide_border=false&border=e94560&background=0D1117&stroke=e94560&ring=e94560&fire=FF6B6B&currStreakLabel=e94560&sideLabels=ffffff&dates=a8b2d8&sideNums=ffffff&currStreakNum=ffffff&border_radius=10" />
+<img src="https://streak-stats.demolab.com/?user=Felipe-tt&theme=dark&hide_border=false&border=e94560&background=0D1117&stroke=e94560&ring=e94560&fire=FF6B6B&currStreakLabel=e94560&sideLabels=ffffff&dates=a8b2d8&sideNums=ffffff&currStreakNum=ffffff&border_radius=10&card_width=500" />
 
 <br><br>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Felipe-tt&bg_color=0d1117&color=e94560&line=e94560&point=ffffff&area=true&area_color=e94560&hide_border=false&border_color=e94560&radius=6&title_color=ffffff)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Felipe-tt&bg_color=0d1117&color=e94560&line=e94560&point=ffffff&area=true&area_color=330010&hide_border=false&border_color=e94560&radius=6&title_color=ffffff&custom_title=Felipe+Ittner+—+Contribution+Graph)
 
 </div>
 
@@ -153,10 +304,25 @@ NOW  ──────► Junior FullStack Developer @ Lince Tech 🚀
 
 <div align="center">
 
-| 🐾 Project | 📝 Description | 🛠️ Stack | 🔗 Link |
-|:---|:---|:---|:---:|
-| **unePets** | Pet shop management system — full CRUD, business rules, relational DB | Java · SQL Server · HTML · CSS · JS | [![Repo](https://img.shields.io/badge/View-e94560?style=flat-square&logo=github&logoColor=white)](https://github.com/Felipe-tt/unePets) |
-| **Locadora Céu Azul** | Movie rental system — inventory, rentals, returns & customers | Java · SQL Server · HTML · CSS · JS | [![Repo](https://img.shields.io/badge/View-e94560?style=flat-square&logo=github&logoColor=white)](https://github.com/Felipe-tt/Locadora-CeuAzul) |
+```
+┌─────────────────────────────────────────────────────────────────────────────────┐
+│                           🗂️  FEATURED PROJECTS                                 │
+├──────────────────┬──────────────────────────────────────────┬───────────────────┤
+│  🐾  unePets     │  Pet shop management system              │  Java · SQL Server │
+│                  │  Full CRUD · business rules · rel. DB    │  HTML · CSS · JS   │
+│                  │  ─────────────────────────────────────── │ ────────────────── │
+│                  │  → github.com/Felipe-tt/unePets          │  🔗 See below      │
+├──────────────────┼──────────────────────────────────────────┼───────────────────┤
+│  🎬  Locadora    │  Movie rental management system          │  Java · SQL Server │
+│  Céu Azul        │  Inventory · rentals · returns · clients │  HTML · CSS · JS   │
+│                  │  ─────────────────────────────────────── │ ────────────────── │
+│                  │  → github.com/Felipe-tt/Locadora-CeuAzul │  🔗 See below      │
+└──────────────────┴──────────────────────────────────────────┴───────────────────┘
+```
+
+[![unePets](https://img.shields.io/badge/🐾%20%20unePets%20—%20Pet%20Shop%20System-View%20on%20GitHub-e94560?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Felipe-tt/unePets)
+&nbsp;
+[![Locadora Céu Azul](https://img.shields.io/badge/🎬%20%20Locadora%20Céu%20Azul%20—%20Rental%20System-View%20on%20GitHub-e94560?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Felipe-tt/Locadora-CeuAzul)
 
 </div>
 
@@ -166,31 +332,41 @@ NOW  ──────► Junior FullStack Developer @ Lince Tech 🚀
 
 <div align="center">
 
-| 🎓 Degree | 🏫 Institution | 📅 Period | ✅ Status |
-|:---|:---|:---:|:---:|
-| B.Sc. Information Systems | UNIASSELVI | 2023 – 2027 | 🟡 In Progress |
-| Java Web Development | Entra21 / SENAI | 2024 | 🟢 Completed |
-| Technical Degree — Systems Analysis & Development | SENAI/SC | 2022 – 2023 | 🟢 Completed |
-| C# Web Development | Entra21 / ProWay | 2021 | 🟢 Completed |
-| Technical Degree — Computer Software | Cedup Hermann Hering | 2020 – 2022 | 🟢 Completed |
+```
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                              🎓  EDUCATION                                    ║
+╠═══════════════════════════════════╦══════════════════════╦══════════╦════════╣
+║  Degree                           ║  Institution         ║  Period  ║ Status ║
+╠═══════════════════════════════════╬══════════════════════╬══════════╬════════╣
+║  B.Sc. Information Systems        ║  UNIASSELVI          ║ 23–27    ║  🟡    ║
+║  Java Web Development             ║  Entra21 / SENAI     ║  2024    ║  🟢    ║
+║  Tech. — Systems Analysis & Dev   ║  SENAI/SC            ║ 22–23    ║  🟢    ║
+║  C# Web Development               ║  Entra21 / ProWay    ║  2021    ║  🟢    ║
+║  Tech. — Computer Software        ║  Cedup Hermann Hering║ 20–22    ║  🟢    ║
+╚═══════════════════════════════════╩══════════════════════╩══════════╩════════╝
+   🟡 In Progress    🟢 Completed
+```
 
 </div>
 
 ---
 
-## 🧠 How I Work
+## ⚙️ How I Work
 
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────┐
-│                   MY DEVELOPMENT FLOW                   │
-├──────────┬──────────┬──────────┬──────────┬─────────────┤
-│  Analyze │  Design  │  Build   │  Review  │   Deploy    │
-│    📋    │    🎨    │    ⚙️    │    🔍    │     🚀      │
-│  Jira    │  Layout  │  Java /  │  Code    │  Versioned  │
-│  Ticket  │  & Flow  │    JS    │  Review  │   w/ Git    │
-└──────────┴──────────┴──────────┴──────────┴─────────────┘
+                     MY DEVELOPMENT WORKFLOW @ LINCE TECH
+ ─────────────────────────────────────────────────────────────────────────────
+
+  📋 PLAN          🎨 DESIGN         ⚙️  BUILD          🔍 REVIEW         🚀 SHIP
+  ─────────        ─────────         ─────────          ─────────         ──────
+  Jira ticket  →   Layout &      →   Java back-end  →   Code review   →   Git
+  requirement      flow design       SQL queries        + tests           deploy
+  analysis         (HTML/CSS)        AJAX/jQuery        refactoring       versioned
+                                     integration        optimization      release
+ ─────────────────────────────────────────────────────────────────────────────
+  Tools: Jira · Git · VS Code · Postman · SQL Server Management Studio
 ```
 
 </div>
@@ -203,14 +379,39 @@ NOW  ──────► Junior FullStack Developer @ Lince Tech 🚀
 
 | | |
 |:---|:---|
-| 💼 Currently | Junior FullStack Developer @ **Lince Tech** |
-| 🌍 Location | Blumenau, SC — Brazil 🇧🇷 |
-| 🎓 Studying | B.Sc. Information Systems @ **UNIASSELVI** |
-| 🔭 Working on | Web systems with Java + SQL Server |
-| 🌱 Learning | Spring Boot · React · Docker |
-| 💬 Ask me about | Java · SQL Server · jQuery · N8N automation |
-| 📫 Reach me | felipe.ttnr@gmail.com |
-| ⚡ Fun fact | Started in IT support — I know how the user *feels* when things break |
+| 💼 **Currently** | Junior FullStack Developer @ **Lince Tech** |
+| 🌍 **Location** | Blumenau, SC — Brazil 🇧🇷 |
+| 🎓 **Studying** | B.Sc. Information Systems @ **UNIASSELVI** (2023–2027) |
+| 🔭 **Working on** | Web systems with Java + SQL Server |
+| 🌱 **Learning** | Spring Boot · React · Docker |
+| 🤖 **Automation** | N8N pipelines · WhatsApp bots with Botpress & BotConversa |
+| 💬 **Ask me about** | Java · SQL Server · jQuery · N8N automation |
+| 🧠 **Superpower** | Started in IT support — I know how the user *feels* when things break |
+| 📫 **Email** | felipe.ttnr@gmail.com |
+| ⚡ **Fun fact** | I debug in production. Unironically. 💀 |
+
+</div>
+
+---
+
+## 🧠 Dev Philosophy
+
+<div align="center">
+
+```
+ ╔═══════════════════════════════════════════════════════════════════╗
+ ║                                                                   ║
+ ║   "Write code for the next developer — it might be you           ║
+ ║    at 2am trying to fix a production bug."                        ║
+ ║                                                                   ║
+ ║   "The best systems I've built started with understanding         ║
+ ║    the user's frustration — not just the requirements."           ║
+ ║                                                                   ║
+ ║   "Support taught me empathy. Development gave me the tools.      ║
+ ║    Now I use both — every single day."                            ║
+ ║                                                                   ║
+ ╚═══════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
@@ -220,20 +421,22 @@ NOW  ──────► Junior FullStack Developer @ Lince Tech 🚀
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/felipe-ittner-768717247">
-  <img src="https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:felipe.ttnr@gmail.com">
-  <img src="https://img.shields.io/badge/Send%20me%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br><br>
-
-> *"The best code I ever wrote started with understanding the user's frustration."*
+> 💬 *Open to conversations, collaborations, and new opportunities.*
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e94560,40:2d0020,70:1a0010,100:0d0d0d&height=140&section=footer" />
+[![LinkedIn](https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-ittner-768717247)
+[![Gmail](https://img.shields.io/badge/Send%20me%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe.ttnr@gmail.com)
+[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Felipe-tt)
+
+<br>
+
+```
+If you read this far — you already know we'd work well together. 👊
+```
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e94560,30:2d0030,60:1a0020,100:000000&height=160&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=65&desc=%E2%9A%A1%20Felipe%20Ittner%20%7C%20FullStack%20Developer&descAlignY=85&descSize=14&descColor=e94560" />
 
 </div>
