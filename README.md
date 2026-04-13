@@ -54,9 +54,8 @@ I also have experience with process automation using **N8N** and **WhatsApp bots
 
 ### 📊 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipe-tt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=a8b2d8&cache_seconds=86400" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-tt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=a8b2d8&cache_seconds=86400" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipe-tt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=a8b2d8" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Felipe-tt&theme=tokyonight" />
 
 <img src="https://streak-stats.demolab.com/?user=Felipe-tt&theme=tokyonight&hide_border=true&background=0d1117&stroke=e94560&ring=e94560&fire=e94560&currStreakLabel=e94560&sideLabels=a8b2d8&dates=a8b2d8&sideNums=a8b2d8&currStreakNum=ffffff" />
 
@@ -68,12 +67,8 @@ I also have experience with process automation using **N8N** and **WhatsApp bots
 
 ### 📂 Featured Projects
 
-<a href="https://github.com/Felipe-tt/unePets">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Felipe-tt&repo=unePets&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=a8b2d8&icon_color=e94560" />
-</a>
-<a href="https://github.com/Felipe-tt/Locadora-CeuAzul">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Felipe-tt&repo=Locadora-CeuAzul&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=a8b2d8&icon_color=e94560" />
-</a>
+[![unePets](https://img.shields.io/badge/unePets-e94560?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Felipe-tt/unePets)
+[![Locadora Céu Azul](https://img.shields.io/badge/Locadora%20Céu%20Azul-e94560?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Felipe-tt/Locadora-CeuAzul)
 
 </div>
 
