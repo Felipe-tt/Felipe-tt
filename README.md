@@ -38,8 +38,6 @@ When I finally moved into development, I didn't have to imagine the user.
 
 Today I build the systems I used to support — at **Lince Tech** — using Java, SQL Server, React, and TypeScript. And when something breaks, I understand it on a level most junior developers don't.
 
-> *"The best code I ever wrote started with understanding the user's frustration."*
-
 </td>
 <td valign="top" width="46%">
 
