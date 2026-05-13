@@ -268,7 +268,7 @@ Inventory control, rental transactions, return processing, and customer manageme
 
 <div align="center">
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The+best+code+I+ever+wrote+started+with+understanding+the+user%27s+frustration.&author=Felipe+Ittner)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The+only+way+to+go+fast+is+to+go+well.&author=Robert+C.+Martin+%28Uncle+Bob%29)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
