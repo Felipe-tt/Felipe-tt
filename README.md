@@ -220,9 +220,7 @@ Inventory control, rental transactions, return processing, and customer manageme
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-qk2jlh0qa-feit.vercel.app/api?username=Felipe-tt&show_icons=true&theme=radical&bg_color=0D1117&border_color=e94560&title_color=e94560&icon_color=e94560&text_color=ffffff&count_private=true&include_all_commits=true&rank_icon=github"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats-qk2jlh0qa-feit.vercel.app/api/top-langs/?username=Felipe-tt&layout=compact&theme=radical&bg_color=0D1117&border_color=e94560&title_color=e94560&text_color=ffffff&langs_count=8"/>
+<img src="https://raw.githubusercontent.com/Felipe-tt/Felipe-tt/main/github-metrics.svg"/>
 
 <br/><br/>
 
