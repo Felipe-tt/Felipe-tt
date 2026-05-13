@@ -266,13 +266,6 @@ Inventory control, rental transactions, return processing, and customer manageme
 
 ---
 
-## ⏱️ WakaTime — Coding Stats
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
 ## 💬 Dev Quote of the Day
 
 <div align="center">
