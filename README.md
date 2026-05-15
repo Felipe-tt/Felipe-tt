@@ -37,6 +37,11 @@ Today I work at Lince Tech building and maintaining enterprise web systems —
 resolving bugs, reviewing code, managing tasks in Jira, and shipping features
 in Java, JavaScript, jQuery and SQL Server.
 
+Outside work I build side projects to explore what I don't touch at the job yet —
+PWAs with biometric auth, WhatsApp bots, and automations with N8N.
+
+Currently studying Spring Boot and Docker to level up on the backend side.
+
 </td>
 <td valign="top" width="46%">
 
