@@ -159,9 +159,10 @@ Zero manual work. Fully mobile. Offline-capable.
 
 Full CRUD with enforced business rules and a normalized relational database — customer registration, product inventory, service scheduling, and sales records all in one place.
 
-![C#](https://img.shields.io/badge/-C#-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-5A0FC8?style=flat-square&logo=csharp&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
 
 ---
 
