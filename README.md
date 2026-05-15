@@ -26,17 +26,14 @@
 <tr>
 <td valign="top" width="54%">
 
-Most developers start by writing code, then eventually learn what users actually need.
+Most developers learn the tools first, then figure out what users need.
+I spent years in IT support before writing a single line of production code —
+logging tickets, troubleshooting enterprise systems, watching software fail
+from the other side of the screen.
 
-**I did it backwards.**
+When I moved into development, I already understood the problems I'd be solving.
 
-I spent years in IT support — sitting beside frustrated users, watching enterprise systems crash in real time, logging tickets for bugs I couldn't yet fix. I felt what software feels like from the other side of the screen, before I ever wrote a single line of production code.
-
-When I finally moved into development, I didn't have to imagine the user.
-
-**I already knew them.**
-
-Today I build the systems I used to support — at **Lince Tech** — using Java, SQL Server, React, and TypeScript. And when something breaks, I understand it on a level most junior developers don't.
+Today I build systems at Lince Tech using Java, JavaScript, jQuery and SQL Server.
 
 </td>
 <td valign="top" width="46%">
