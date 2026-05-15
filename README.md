@@ -159,7 +159,7 @@ Zero manual work. Fully mobile. Offline-capable.
 
 Full CRUD with enforced business rules and a normalized relational database — customer registration, product inventory, service scheduling, and sales records all in one place.
 
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/-C#-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
@@ -184,14 +184,12 @@ Inventory control, rental transactions, return processing, and customer manageme
 
 <div align="center">
 
-> From IT Support to Full-Stack Developer — inside the same company, one level at a time.
-
 | 🗓️ Period | 🎯 Role | 🏢 |
 |:---:|:---|:---:|
-| **Nov 2024 – Present** | 🟢 Full-Stack Developer Jr. | Lince Tech |
-| **Mar 2024 – Nov 2024** | 🔵 Full-Stack Developer Trainee | Lince Tech |
-| **Sep 2023 – Mar 2024** | 🟡 Helpdesk II | Lince Tech |
-| **Sep 2022 – Sep 2023** | 🟠 Helpdesk I | Lince Tech |
+| **Nov 2025 – Present** | 🟢 Full-Stack Developer Jr. | Lince Tech |
+| **Mar 2025 – Nov 2025** | 🔵 Full-Stack Developer Trainee | Lince Tech |
+| **Sep 2024 – Mar 2025** | 🟡 Helpdesk II | Lince Tech |
+| **Sep 2023 – Sep 2024** | 🟠 Helpdesk I | Lince Tech |
 | **Apr 2023 – Jun 2023** | 🔵 Integration Developer | Hiper Automação Digital |
 
 </div>
