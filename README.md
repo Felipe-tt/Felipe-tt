@@ -33,7 +33,9 @@ from the other side of the screen.
 
 When I moved into development, I already understood the problems I'd be solving.
 
-Today I build systems at Lince Tech using Java, JavaScript, jQuery and SQL Server.
+Today I work at Lince Tech building and maintaining enterprise web systems —
+resolving bugs, reviewing code, managing tasks in Jira, and shipping features
+in Java, JavaScript, jQuery and SQL Server.
 
 </td>
 <td valign="top" width="46%">
