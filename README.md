@@ -123,18 +123,14 @@ public class FelipeIttner {
 
 <table>
 <tr>
-<td width="100%" valign="top">
+<td valign="top">
 
-### 🛏️ [Mikma Lençóis](https://mikma.com.br) · [código](https://github.com/Felipe-tt/mikma-lencois)
-**E-commerce completo em produção: não é projeto de estudo, é loja real vendendo pra cliente real**
+### 🛏️ [Mikma Lençóis](https://mikma.com.br) · [code](https://github.com/Felipe-tt/mikma-lencois)
+**Live e-commerce store, real customers, real sales**
 
-**O que é:** loja online full-stack de lençóis, do catálogo ao pagamento. Fluxo de compra completo com **PIX**,
-cálculo automático de frete (**Melhor Envio**) e entrega local (**Uber Direct**), painel administrativo pro
-time da loja gerenciar produtos, estoque, pedidos e cupons, e uma calculadora que descobre o tamanho de
-lençol certo a partir da medida do colchão do cliente.
+Full-stack bedding store: catalog, cart, PIX checkout, automatic shipping quotes (Melhor Envio), local delivery (Uber Direct), an admin panel for the team, and a calculator that suggests the right sheet size from the customer's mattress measurements.
 
-Construído sozinho do zero: banco de dados (Firestore), autenticação por cargo (staff vs cliente), rate
-limiting, monitoramento de erro em produção (Sentry) e deploy contínuo via GitHub Actions.
+Built solo end to end, including auth, rate limiting, error monitoring (Sentry) and CI/CD via GitHub Actions.
 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -145,17 +141,16 @@ limiting, monitoramento de erro em produção (Sentry) e deploy contínuo via Gi
 
 </td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td width="50%" valign="top">
 
 ### 💧 [HidroGás](https://github.com/Felipe-tt/hydrogas)
-**Utility meter management for condominiums**
+**Water and gas meter tracking for condos**
 
-**The problem:** condo managers tracked water and gas readings on paper, then manually typed everything into monthly reports.
-
-**What I built:** a full PWA where managers log readings with **biometric login (WebAuthn)**, residents access their own history via a **personalized QR code** (zero login required), and reports generate and distribute themselves automatically.
-
-Zero manual work. Fully mobile. Offline-capable.
+Replaces paper readings and manual reports. Managers log readings with biometric login, residents check their own history through a personal QR code, and reports go out automatically. Mobile-first and works offline.
 
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -169,7 +164,7 @@ Zero manual work. Fully mobile. Offline-capable.
 ### 🐾 [unePets](https://github.com/Felipe-tt/unePets)
 **Pet shop management system**
 
-Full CRUD with enforced business rules and a normalized relational database, covering customer registration, product inventory, service scheduling, and sales records all in one place.
+CRUD app on a normalized SQL Server database: customers, inventory, service scheduling and sales in one place.
 
 ![C#](https://img.shields.io/badge/-C%23-5A0FC8?style=flat-square&logo=csharp&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
