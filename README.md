@@ -103,7 +103,7 @@ public class FelipeIttner {
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Front-end
-[![Frontend](https://skillicons.dev/icons?i=ts,js,react,jquery,tailwind,html,css&theme=dark)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=ts,nextjs,js,react,jquery,tailwind,html,css&theme=dark)](https://skillicons.dev)
 
 ### Tools & Workflow
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark)](https://skillicons.dev)
@@ -122,6 +122,29 @@ public class FelipeIttner {
 ## 🚀 Featured Projects
 
 <table>
+<tr>
+<td width="100%" valign="top">
+
+### 🛏️ [Mikma Lençóis](https://mikma.com.br) · [código](https://github.com/Felipe-tt/mikma-lencois)
+**E-commerce completo em produção — não é projeto de estudo, é loja real vendendo pra cliente real**
+
+**O que é:** loja online full-stack de lençóis, do catálogo ao pagamento. Fluxo de compra completo com **PIX**,
+cálculo automático de frete (**Melhor Envio**) e entrega local (**Uber Direct**), painel administrativo pro
+time da loja gerenciar produtos, estoque, pedidos e cupons, e uma calculadora que descobre o tamanho de
+lençol certo a partir da medida do colchão do cliente.
+
+Construído sozinho do zero: banco de dados (Firestore), autenticação por cargo (staff vs cliente), rate
+limiting, monitoramento de erro em produção (Sentry) e deploy contínuo via GitHub Actions.
+
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Sentry](https://img.shields.io/badge/-Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
@@ -153,17 +176,6 @@ Full CRUD with enforced business rules and a normalized relational database — 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/-Entity_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-
----
-
-### 🎬 [Locadora Céu Azul](https://github.com/Felipe-tt/Locadora-CeuAzul)
-**Movie rental management**
-
-Inventory control, rental transactions, return processing, and customer management — with business rules for late returns and stock availability.
-
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 </td>
 </tr>
