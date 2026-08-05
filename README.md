@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=700&color=E94560&center=true&vCenter=true&width=720&lines=%3E+Full-Stack+Developer+%40+Lince+Tech+%F0%9F%9A%80;%3E+Java+%7C+SQL+Server+%7C+React+%7C+TypeScript;%3E+IT+Support+%E2%86%92+Dev+%E2%80%94+built+different+%F0%9F%94%A5;%3E+PWAs+%7C+WebAuthn+%7C+N8N+Automations+%7C+Bots+%F0%9F%A4%96;%3E+Blumenau%2C+SC+%E2%80%94+Brazil+%F0%9F%87%A7%F0%9F%87%B7;%3E+Open+to+new+opportunities+%F0%9F%91%80)](https://github.com/Felipe-tt)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=700&color=E94560&center=true&vCenter=true&width=720&lines=%3E+Full-Stack+Developer+%40+Lince+Tech+%F0%9F%9A%80;%3E+Java+%7C+SQL+Server+%7C+React+%7C+TypeScript;%3E+IT+Support+%E2%86%92+Dev%2C+built+different+%F0%9F%94%A5;%3E+PWAs+%7C+WebAuthn+%7C+N8N+Automations+%7C+Bots+%F0%9F%A4%96;%3E+Blumenau%2C+SC%2C+Brazil+%F0%9F%87%A7%F0%9F%87%B7;%3E+Open+to+new+opportunities+%F0%9F%91%80)](https://github.com/Felipe-tt)
 
 <br/>
 
@@ -27,17 +27,17 @@
 <td valign="top" width="54%">
 
 Most developers learn the tools first, then figure out what users need.
-I spent years in IT support before writing a single line of production code —
+I spent years in IT support before writing a single line of production code,
 logging tickets, troubleshooting enterprise systems, watching software fail
 from the other side of the screen.
 
 When I moved into development, I already understood the problems I'd be solving.
 
-Today I work at Lince Tech building and maintaining enterprise web systems —
+Today I work at Lince Tech building and maintaining enterprise web systems,
 resolving bugs, reviewing code, managing tasks in Jira, and shipping features
 in Java, JavaScript, jQuery and SQL Server.
 
-Outside work I build side projects to explore what I don't touch at the job yet —
+Outside work I build side projects to explore what I don't touch at the job yet:
 PWAs with biometric auth, WhatsApp bots, and automations with N8N.
 
 Currently studying Spring Boot and Docker to level up on the backend side.
@@ -126,7 +126,7 @@ public class FelipeIttner {
 <td width="100%" valign="top">
 
 ### 🛏️ [Mikma Lençóis](https://mikma.com.br) · [código](https://github.com/Felipe-tt/mikma-lencois)
-**E-commerce completo em produção — não é projeto de estudo, é loja real vendendo pra cliente real**
+**E-commerce completo em produção: não é projeto de estudo, é loja real vendendo pra cliente real**
 
 **O que é:** loja online full-stack de lençóis, do catálogo ao pagamento. Fluxo de compra completo com **PIX**,
 cálculo automático de frete (**Melhor Envio**) e entrega local (**Uber Direct**), painel administrativo pro
@@ -169,7 +169,7 @@ Zero manual work. Fully mobile. Offline-capable.
 ### 🐾 [unePets](https://github.com/Felipe-tt/unePets)
 **Pet shop management system**
 
-Full CRUD with enforced business rules and a normalized relational database — customer registration, product inventory, service scheduling, and sales records all in one place.
+Full CRUD with enforced business rules and a normalized relational database, covering customer registration, product inventory, service scheduling, and sales records all in one place.
 
 ![C#](https://img.shields.io/badge/-C%23-5A0FC8?style=flat-square&logo=csharp&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
@@ -207,9 +207,9 @@ Full CRUD with enforced business rules and a normalized relational database — 
 |:---|:---|:---:|:---:|
 | B.Sc. Information Systems | UNIASSELVI | 2023 – 2027 | 🟡 In Progress |
 | Java Web Development | Entra21 / SENAI | 2024 | ✅ |
-| Technical — Systems Analysis & Dev | SENAI/SC | 2022 – 2023 | ✅ |
+| Technical, Systems Analysis & Dev | SENAI/SC | 2022 – 2023 | ✅ |
 | C# Web Development | Entra21 / ProWay | 2021 | ✅ |
-| Technical — Computer Software | Cedup Hermann Hering | 2020 – 2022 | ✅ |
+| Technical, Computer Software | Cedup Hermann Hering | 2020 – 2022 | ✅ |
 
 </div>
 
