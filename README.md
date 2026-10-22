@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Felipe%20Ittner&fontSize=82&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Java%20%C2%B7%20JavaScript%20%C2%B7%20SQL%20Server&descSize=18&descAlignY=58&descColor=e94560" alt="Felipe Ittner — Full-Stack Developer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Felipe&fontSize=82&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Java%20%C2%B7%20JavaScript%20%C2%B7%20SQL%20Server&descSize=18&descAlignY=58&descColor=e94560" alt="Felipe — Full-Stack Developer"/>
 
 </div>
 
@@ -24,60 +24,13 @@
 
 ## 🧠 About Me
 
-<table>
-<tr>
-<td valign="top" width="54%">
+I'm a Junior Full-Stack Developer at **Lince Tech**, in Blumenau, Brazil. Day to day I work on Java, JavaScript and SQL Server systems, mostly business rules, bug fixes, screens and SQL queries.
 
-I'm a **Junior Full-Stack Developer at Lince Tech**, building and maintaining enterprise web systems with **Java, JavaScript and SQL Server**.
+I started there in support in 2023 and moved to development in 2025.
 
-My work includes implementing business rules, fixing bugs, developing interfaces, optimizing SQL queries and reviewing code.
+On the side I build my own stuff, like **Mikma Lençóis**, an online store that's live and selling, and **HidroGás**, an app for tracking water and gas readings in condominiums.
 
-I joined Lince Tech in technical support in 2023 and moved into development in March 2025. Working directly with users helped me understand the problems behind the features and fixes I deliver today.
-
-Outside work, I build applications from development through deployment — including **Mikma Lençóis**, an e-commerce store with customers and sales, and **HidroGás**, a PWA for condominium utility management.
-
-I'm pursuing a degree in **Information Systems** and studying **Spring Boot and Docker** to deepen my backend development skills.
-
-</td>
-<td valign="top" width="46%">
-
-```java
-public class FelipeIttner {
-
-  String name = "Felipe Ittner";
-  String role = "Full-Stack Developer Jr.";
-  String company = "Lince Tech";
-  String city = "Blumenau, SC 🇧🇷";
-
-  boolean openToWork = true;
-
-  String[] atWork = {
-    "Java", "JavaScript",
-    "jQuery", "SQL Server"
-  };
-
-  String[] personalProjects = {
-    "TypeScript", "React", "Next.js",
-    "Firebase", "C#", "Blazor"
-  };
-
-  String[] tools = {
-    "Git", "Jira", "GitHub Actions",
-    "Sentry", "N8N"
-  };
-
-  String[] studying = {
-    "Spring Boot", "Docker"
-  };
-
-  String perspective =
-    "From supporting users to building solutions.";
-}
-```
-
-</td>
-</tr>
-</table>
+I'm studying Information Systems and learning Spring Boot and Docker.
 
 ---
 
@@ -314,8 +267,6 @@ Based in **Blumenau, Santa Catarina, Brazil**.
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-ittner-768717247)
 [![Gmail](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipeittnerc@gmail.com)
 [![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Felipe-tt)
-
-**[felipeittnerc@gmail.com](mailto:felipeittnerc@gmail.com)**
 
 <br/>
 
