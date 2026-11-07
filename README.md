@@ -24,7 +24,7 @@
 
 ## 🧠 About Me
 
-I'm a Junior Full-Stack Developer at **Lince Tech**, in Blumenau, Brazil. Day to day I work on Java, JavaScript and SQL Server systems, mostly business rules, bug fixes, screens and SQL queries.
+I'm a Junior Full-Stack Developer at **Lince Tech**, in Gaspar, Brazil. Day to day I work on Java, JavaScript and SQL Server systems, mostly business rules, bug fixes, screens and SQL queries.
 
 I started there in support in 2023 and moved to development in 2025.
 
